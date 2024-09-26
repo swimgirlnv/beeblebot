@@ -267,6 +267,16 @@ function DemoBook() {
         <Page number={18} image="https://i.imgur.com/LynN6eO.jpeg">
         <p>But she never found him, and although Beeble tried to keep her cubs away from the trash that had taken her Mother and her Brother, she couldn't avoid the mountains of trash that now covered everywhere the eye could see.</p>
         </Page>
+        <Page number={19} image="https://i.imgur.com/7KggGc0.jpeg">
+        <p>She would tell her cubs about Bot, and the dangers of the trash, and the humans that left it behind.</p>
+        <p>But she would also tell them about the beauty of the forest, and the importance of protecting it.</p>
+        <p>So they retreated to Desolation Wilderness where traces of humans were minimal and the spirit of the Wild was still strong.</p>
+        <p>The End</p>
+        </Page>
+        <Page number={20} image="https://sierranevadaalliance.org/wp-content/uploads/2022/11/General-Social-and-Event-Post-Template-1.png">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/LQmW47oWoIo?si=7poHPl79oBwv7d2F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        <p style={{fontSize: '.6rem'}}>All photos are from social media and/or news sources of trash and bears in the Lake Tahoe area.</p>
+        </Page>
         <PageCover></PageCover>
       </HTMLFlipBook>
 

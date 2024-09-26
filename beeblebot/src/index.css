@@ -22,7 +22,7 @@ code {
 /* Import the custom font */
 @font-face {
   font-family: 'MyCustomFont'; /* Replace with your desired font name */
-  src: url('./fonts/ALittleSunshine.ttf') format('truetype'); 
+  src: url('./fonts/FlowerPark.ttf') format('truetype'); 
   font-weight: normal; /* Adjust the weight if needed */
   font-style: normal; /* Adjust the style if needed */
 }
@@ -96,7 +96,7 @@ body {
 
 /* Text styling for page content */
 .page-text {
-  font-size: 1.2rem;
+  font-size: .9rem;
   line-height: 1.5;
   color: black;
   text-align: left;
